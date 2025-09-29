@@ -1,7 +1,7 @@
 {
   "name": "tech-evangelism-berlin",
   "version": "1.0.0",
-  "description": "Tech Evangelism Berlin - Online Portal for Technology Education.",
+  "description": "Tech Evangelism Berlin - A portal for online technology education and community engagement.",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
