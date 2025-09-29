@@ -1,0 +1,21 @@
+{
+  "name": "tech-evangelism-berlin",
+  "version": "1.0.0",
+  "description": "Tech Evangelism Berlin - Online Portal for Technology Education.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "react-scripts": "^4.0.3"
+  },
+  "license": "MIT"
+}
