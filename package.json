@@ -10,12 +10,12 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.11.15",
+    "express": "^4.18.2",
+    "mongoose": "^6.12.0",
     "cors": "^2.8.5"
   },
   "devDependencies": {
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^5.0.1"
   },
   "license": "MIT"
 }
